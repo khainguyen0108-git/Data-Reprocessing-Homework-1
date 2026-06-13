@@ -1,0 +1,10 @@
+order_id,customer_id,item_name,quantity,price_per_unit,order_date,customer_region
+1001,C101,Organic Apples,3,2.50,2026-05-01,North
+1002,C102,Bananas,12,0.50,2026-05-01,South
+1003,C103,Avocados,N/A,1.99,2026-05-02,WEST
+1004,C101,Organic Apples,3,2.50,2026-05-01,North
+1005,C104,Whole Milk,,3.49,05/02/2026,East
+1006,C105,Strawberries,2, missing,2026-05-03,South
+1007,C106,Organic Spinach,-1,2.99,2026-05-04,West
+1008,C107,Blueberries,4,3.99,2026-05-04,NORTH
+1009,C108,Almond Milk,1,3.49,2026-05-05,East
